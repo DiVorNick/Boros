@@ -1,2 +1,2 @@
 # Boros
-boros.kz
+boros.kz vorogusha.ru
